@@ -8,6 +8,7 @@
   <li><a href="#technologies-used">Technologies Used</a></li>
   <li><a href="#setup">Setup</a></li>
   <li><a href="#how-to-play">How to Play</a></li>
+  <li><a href="#deployment">Deployment</a></li>
 </ul>
 
 <h2 id="introduction">Introduction</h2>
@@ -58,3 +59,9 @@
   <li>If the score reaches zero, a "💥 You lost the game" message appears, and the game ends.</li>
   <li>Click the "Again!" button to restart the game with a new secret number and reset the score.</li>
 </ol>
+<h2 id="deployment">Deployment</h2>
+<p>This project is deployed on the following platforms:</p>
+<ul>
+  <li><a href="https://gjwebdev7.github.io/Guess-My-Number/">GitHub Pages</a></li>
+  <li><a href="https://gjwebdev7.netlify.app/">Netlify</a></li>
+</ul>
