@@ -8,9 +8,6 @@
   <li><a href="#technologies-used">Technologies Used</a></li>
   <li><a href="#setup">Setup</a></li>
   <li><a href="#how-to-play">How to Play</a></li>
-  <li><a href="#project-structure">Project Structure</a></li>
-  <li><a href="#contributing">Contributing</a></li>
-  <li><a href="#license">License</a></li>
 </ul>
 
 <h2 id="introduction">Introduction</h2>
@@ -61,30 +58,3 @@
   <li>If the score reaches zero, a "💥 You lost the game" message appears, and the game ends.</li>
   <li>Click the "Again!" button to restart the game with a new secret number and reset the score.</li>
 </ol>
-
-<h2 id="project-structure">Project Structure</h2>
-<pre><code>guess-my-number/
-├── index.html
-├── styles.css
-└── script.js
-</code></pre>
-
-<ul>
-  <li><code>index.html</code>: The main HTML file that contains the structure of the game.</li>
-  <li><code>styles.css</code>: The CSS file that contains styles and responsive design rules.</li>
-  <li><code>script.js</code>: The JavaScript file that contains the game logic and DOM manipulation.</li>
-</ul>
-
-<h2 id="contributing">Contributing</h2>
-<p>Contributions are welcome! If you have any suggestions or improvements, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.</p>
-
-<ol>
-  <li>Fork the repository.</li>
-  <li>Create a new branch (<code>git checkout -b feature-branch</code>).</li>
-  <li>Commit your changes (<code>git commit -am 'Add new feature'</code>).</li>
-  <li>Push to the branch (<code>git push origin feature-branch</code>).</li>
-  <li>Open a pull request.</li>
-</ol>
-
-<h2 id="license">License</h2>
-<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.</p>
