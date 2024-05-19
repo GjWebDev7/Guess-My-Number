@@ -30,20 +30,6 @@
   <li>JavaScript (ES6)</li>
 </ul>
 
-<h2 id="setup">Setup</h2>
-<p>To run this game locally, follow these steps:</p>
-<ol>
-  <li>Clone the repository:
-    <pre><code>git clone https://github.com/yourusername/guess-my-number.git</code></pre>
-  </li>
-  <li>Navigate to the project directory:
-    <pre><code>cd guess-my-number</code></pre>
-  </li>
-  <li>Open the <code>index.html</code> file in your preferred web browser:
-    <pre><code>open index.html</code></pre>
-  </li>
-</ol>
-
 <h2 id="how-to-play">How to Play</h2>
 <ol>
   <li>The game generates a random secret number between 1 and 20.</li>
