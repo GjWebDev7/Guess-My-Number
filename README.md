@@ -44,6 +44,21 @@
   <li>If the score reaches zero, a "💥 You lost the game" message appears, and the game ends.</li>
   <li>Click the "Again!" button to restart the game with a new secret number and reset the score.</li>
 </ol>
+ <h2>Getting Started</h2>
+    <h3>Installation</h3>
+    <ol>
+        <li>Clone the repository to your local machine:</li>
+        <code>git clone https://github.com/GjWebDev7/Guess-My-Number.git</code>
+        <li>Navigate to the project directory:</li>
+        <code>cd Guess-My-Number</code>
+    </ol>
+    <h3>How to Run</h3>
+    <p>To run the project, simply open the <code>index.html</code> file in your preferred web browser.</p>
+    <ol>
+        <li>Open the <code>index.html</code> file in your code editor.</li>
+        <li>Right-click on the file and select an option like "Open with" followed by your preferred web browser.</li>
+        <li>Alternatively, you can directly drag and drop the <code>index.html</code> file into your web browser.</li>
+    </ol>
 <h2 id="deployment">Deployment</h2>
 <p>This project is deployed on the following platforms:</p>
 <ul>
